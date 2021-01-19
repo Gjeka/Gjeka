@@ -1,4 +1,4 @@
-# Kristi
+# Gjeka
 Hi there!
 
 My name is Kristi Gjeka and I am a <b>Full Stack Web and Mobile Developer</b>. I am specialised in the use of React JS and React Native to deliver efficient and responsive front end implementations. I am also specialised in the use of the Django Framework to implement a robust back end.
