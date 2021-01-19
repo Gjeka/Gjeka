@@ -6,3 +6,4 @@ Besides the above, I am proficient in various languages such as Javascript, Java
 
 I am a Machine Learning Enthusiast and I also spend alot of my free time learning more frameworks and libraries that may help push my skills even further!
 
+Check out my <a href="https://www.linkedin.com/in/kristi-gjeka-2587b4192"/>LinkedIn!</a>
